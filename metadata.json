@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AuthMed",
+  "description": "Autonomous Hospital Inspection \u0026 Risk Control Agent",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
